@@ -1,0 +1,5 @@
+c:\users\pasan\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+c:\users\pasan\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+c:\users\pasan\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+c:\users\pasan\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+c:\users\pasan\documents\visual studio 2013\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
